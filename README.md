@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexedpx
-- 👀 I’m interested in learning web development, playing guitar, watching films, or going to concert !
-- 🌱 I’m currently developing a personal project name "My Little Library". 
+- 👀 I’m interested in developing web app, playing guitar, watching films, or going to concert !
+- 🌱 I’m currently developing a personal project name POM, a mental health track app. 
 - 💞️ I’m looking to collaborate on all project or ideas :)
 - 📫 How to reach me : you can reach me at alexandradepourtoux93@gmail.com
 
